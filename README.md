@@ -88,7 +88,7 @@ using wormhole is easiest way to transfer data between two computer. Every time 
 wormhole send --help
 ```
 
-![Screenshot 2023-05-22 at 12 03 39 AM](https://github.com/baishakh22/Tools/assets/93491482/872343ee-b25b-496d-9dc4-cc6096e5ac86)
+ <img src="photo 1" width="800">
 
 As we can see from the help page, we can send a file and it will generate a secrect code for us to receive the file. We can also send a file with our customize Code by using (--code [code-Message]), beside we can just send a text message, we can even use the ```Tor``` when connecting two computer. 
 
