@@ -108,7 +108,7 @@ wormhole receive --help
 
 ### Send a file 
 ------------------------
-To send a file using the following command. My file name was test.txt
+To send a file using the following command. My file name was ```test.txt```
 
 ```
 wormhole send [File Name]
@@ -169,7 +169,7 @@ wormhole send --text "Hi This is Muhfat Alam" --code 3-muhfat-alam
 ```
 
 <img src="photo 9.png">
-<img src="photo 10.png" width="800">
+<img src="photo 10.png">
 
 
 
