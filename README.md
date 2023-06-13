@@ -102,7 +102,7 @@ We can also explore the receive category by using the following command line:
 wormhole receive --help
 ```
 
-![Screenshot 2023-05-22 at 12 04 13 AM](https://github.com/baishakh22/Tools/assets/93491482/dd40f917-0f1e-4c95-9a4e-b215a100542e)
+<img src="photo 2.png">
 
 
 
@@ -114,7 +114,7 @@ To send a file using the following command. My file name was test.txt
 wormhole send [File Name]
 ```
 
-![Screenshot 2023-05-24 at 3 05 40 PM](https://github.com/baishakh22/Tools/assets/93491482/74ac0e0c-b52c-4ba1-b77f-c64c606adf11)
+<img src="photo 3.png">
 
 
 
@@ -126,7 +126,7 @@ To receive this file we need to use the following command, which you need to pre
 wormhole receive [Secret Code]
 ```
 
-![new](https://github.com/baishakh22/Tools/assets/93491482/9538e079-6318-44a4-807a-4fd70103ac29)
+<img src="photo 4.png">
 
 Normally the code is generated with a number and two words, and those are connected with dash symbol (-).
 
@@ -140,9 +140,9 @@ We can also just send a text message, URL to use the --text option. **Must use t
 wormhole --text ["Text Message"]
 ```
 
-![Screenshot 2023-05-22 at 12 27 13 AM](https://github.com/baishakh22/Tools/assets/93491482/5eb93140-35e4-46f2-a60f-5250545c9166)
+<img src="photo 5.png">
 
-![Screenshot from 2023-05-22 00-27-27](https://github.com/baishakh22/Tools/assets/93491482/b7a705bf-392d-4312-914b-ce593e73b2e5)
+<img src="photo 6.png">
 
 
 
@@ -154,8 +154,8 @@ Everytime we send a file, it generate a secret code by the itself. We can also c
 wormhole send --code [type the code] [File Name]
 ```
 
-![Screenshot 2023-05-22 at 12 03 15 AM](https://github.com/baishakh22/Tools/assets/93491482/ffd14bfe-8905-4c33-b24c-8e0ff49ed2c7)
-![Screenshot from 2023-05-22 00-06-52](https://github.com/baishakh22/Tools/assets/93491482/7c0c5cf8-9c12-4294-a112-9504be9959f4)
+<img src="photo 7.png">
+<img src="photo 8.png">
 
 Here, my file name was "IMG_7334.JPG". And for the code I used "9-muhfat-alam". Try three different word, and one is number. 
 
@@ -168,8 +168,8 @@ We can also use more than one option when we send a file. Like I want to send a 
 wormhole send --text "Hi This is Muhfat Alam" --code 3-muhfat-alam
 ```
 
-![Screenshot 2023-05-22 at 12 29 10 AM](https://github.com/baishakh22/Tools/assets/93491482/cb2ee506-09a6-427f-808c-15fe8f7ca7ed)
-![Screenshot from 2023-05-22 00-29-39](https://github.com/baishakh22/Tools/assets/93491482/a5930293-e678-4d03-99e5-83bca0619f15)
+<img src="photo 9.png">
+<img src="photo 10.png" width="800">
 
 
 
